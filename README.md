@@ -6,8 +6,8 @@ This package contains various metadata components for Salesforce. You can use th
 
 The following table lists the metadata components included in this package:
 
-| Component                      | Type                           | XML Code                                                      |
-|-------------------------------|-------------------------------|---------------------------------------------------------------|
+| Component                      | Type                           | XML Code                                                          |
+|--------------------------------|--------------------------------|-------------------------------------------------------------------|
 | ApexClass                      | Apex Class                     | `<members>*</members><name>ApexClass</name>`                      |
 | ApexComponent                  | Visualforce Component          | `<members>*</members><name>ApexComponent</name>`                  |
 | ApexPage                       | Visualforce Page               | `<members>*</members><name>ApexPage</name>`                       |
@@ -32,10 +32,10 @@ The following table lists the metadata components included in this package:
 | CustomApplicationComponent     | Custom Application Component   | `<members>*</members><name>CustomApplicationComponent</name>`     |
 | CustomField                    | Custom Field                   | `<members>*</members><name>CustomField</name>`                    |
 | CustomLabels                   | Custom Labels                  | `<members>*</members><name>CustomLabels</name>`                   |
-| CustomMetadata                | Custom Metadata               | `<members>*</members><name>CustomMetadata</name>`                 |
+| CustomMetadata                 | Custom Metadata                | `<members>*</members><name>CustomMetadata</name>`                 |
 | CustomObject                   | Custom Object                  | `<members>*</members><name>CustomObject</name>`                   |
 | CustomObjectTranslation        | Custom Object Translation      | `<members>*</members><name>CustomObjectTranslation</name>`        |
-| CustomPageWebLink              | Custom Page Web Link            | `<members>*</members><name>CustomPageWebLink</name>`              |
+| CustomPageWebLink              | Custom Page Web Link           | `<members>*</members><name>CustomPageWebLink</name>`              |
 | CustomPermission               | Custom Permission              | `<members>*</members><name>CustomPermission</name>`               |
 | CustomTab                      | Custom Tab                     | `<members>*</members><name>CustomTab</name>`                      |
 | Dashboard                      | Dashboard                      | `<members>*</members><name>Dashboard</name>`                      |
@@ -77,20 +77,20 @@ The following table lists the metadata components included in this package:
 | MatchingRules                  | Matching Rules                 | `<members>*</members><name>MatchingRules</name>`                  |
 | MilestoneType                  | Milestone Type                 | `<members>*</members><name>MilestoneType</name>`                  |
 | NamedCredential                | Named Credential               | `<members>*</members><name>NamedCredential</name>`                |
-| NavigationMenu                 | Navigation Menu               | `<members>*</members><name>NavigationMenu</name>`                 |
+| NavigationMenu                 | Navigation Menu                | `<members>*</members><name>NavigationMenu</name>`                 |
 | Network                        | Network                        | `<members>*</members><name>Network</name>`                        |
 | NotificationTypeConfig         | Notification Type Config       | `<members>*</members><name>NotificationTypeConfig</name>`         |
 | OAuthCustomScope               | OAuth Custom Scope             | `<members>*</members><name>OAuthCustomScope</name>`               |
-| OrchestrationContext            | Orchestration Context          | `<members>*</members><name>OrchestrationContext</name>`            |
+| OrchestrationContext           | Orchestration Context          | `<members>*</members><name>OrchestrationContext</name>`           |
 | OrchestrationContextAssignmentRule | Orchestration Context Assignment Rule | `<members>*</members><name>OrchestrationContextAssignmentRule</name>` |
-| OrchestrationTemplate           | Orchestration Template         | `<members>*</members><name>OrchestrationTemplate</name>`           |
+| OrchestrationTemplate          | Orchestration Template         | `<members>*</members><name>OrchestrationTemplate</name>`          |
 | PathAssistant                  | Path Assistant                 | `<members>*</members><name>PathAssistant</name>`                  |
 | PathAssistantStep              | Path Assistant Step            | `<members>*</members><name>PathAssistantStep</name>`              |
 | PathAssistantStepConnection    | Path Assistant Step Connection | `<members>*</members><name>PathAssistantStepConnection</name>`    |
 | PermissionSet                  | Permission Set                 | `<members>*</members><name>PermissionSet</name>`                  |
 | PlatformCachePartition         | Platform Cache Partition       | `<members>*</members><name>PlatformCachePartition</name>`         |
 | Portal                         | Portal                         | `<members>*</members><name>Portal</name>`                         |
-| PostTemplate                   | Post Template                   | `<members>*</members><name>PostTemplate</name>`                   |
+| PostTemplate                   | Post Template                  | `<members>*</members><name>PostTemplate</name>`                   |
 | Profile                        | Profile                        | `<members>*</members><name>Profile</name>`                        |
 | PublisherLayout                | Publisher Layout               | `<members>*</members><name>PublisherLayout</name>`                |
 | Queue                          | Queue                          | `<members>*</members><name>Queue</name>`                          |
