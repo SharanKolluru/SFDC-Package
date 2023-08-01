@@ -55,6 +55,7 @@ The following table lists the metadata components included in this package:
 | FileUploadAndDownloadSecurity  | File Upload and Download Security | `<members>*</members><name>FileUploadAndDownloadSecurity</name>` |
 | FlexiPage                      | Lightning Page                 | `<members>*</members><name>FlexiPage</name>`                      |
 | Flow                           | Flow                           | `<members>*</members><name>Flow</name>`                           |
+| FlowDefinition                 | FlowDefinition                 | `<members>*</members><name>FlowDefinition</name>`                 |
 | GlobalValueSet                 | Global Value Set               | `<members>*</members><name>GlobalValueSet</name>`                 |
 | Group                          | Group                          | `<members>*</members><name>Group</name>`                          |
 | HomePageComponent              | Home Page Component            | `<members>*</members><name>HomePageComponent</name>`              |
